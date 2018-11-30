@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bundle xmlns="http://v8.1c.ru/8.2/addin/bundle" name="com_1c_StepCounter">
+  <component os="Android" path="libcom_BSS_BarcodeScanner_ARM.so" codeType="c++" type="native" arch="ARM"/>
+  <component os="Android" path="com_BSS_BarcodeScanner.apk" codeType="java" type="native" arch="ARM"/>
+
+</bundle>
+
+
+
